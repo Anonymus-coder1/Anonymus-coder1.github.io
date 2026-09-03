@@ -1,4 +1,4 @@
-Try the site here: https://anonymus-coder1.github.io/
+Try the site here: https://anonymus-coder1.github.io/Password-tester/
 # 🔐 Password Strength Tester
 
 A modern and interactive password strength analyzer built with HTML, CSS, and JavaScript.
